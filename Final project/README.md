@@ -2,8 +2,8 @@
 
 ### Requirements:
 
-- Nhóm >= 1
-- Cùng chung 1 dataset (kaggle,UCI dataset)
+- Số thành viên của nhóm >= 1
+- Cùng chung 1 dataset (kaggle, UCI dataset)
 - Mỗi thành viên chọn 1 model để thực hiện
 - Quy ước 1 protocol đánh giá phù hợp (thời gian)
 - Tối ưu mô hình (model tuning) sao cho kết quả tốt nhất
