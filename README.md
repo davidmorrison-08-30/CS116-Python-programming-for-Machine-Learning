@@ -14,4 +14,4 @@ Second semester, 2022-2023
 
 Class: CS116.N21.KHCL
 
-# Grade = 30% assignments' scores + 30% final project's score + 40% final exam's score 
+### Grade = 30% assignments' scores + 30% final project's score + 40% final exam's score 
