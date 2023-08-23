@@ -32,7 +32,7 @@ KNN          B         74%
 
 Vo Minh Thanh - 21522607
 
-Tran Thi Ngoc Nhanh - 21522410
+Tran Thi Ngoc Nhan - 21522410
 
 Nguyen Nguyen Khoi - 21521009
 
